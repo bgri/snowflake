@@ -1,4 +1,5 @@
 # Parametric Snowflake Maker
+<img width="3424" height="2028" alt="Screenshot" src="https://github.com/user-attachments/assets/1c670500-1ddd-4022-af73-4dcc980c2fb2" />
 
 A zero-dependency standalone single-file web application built with **Three.js** and **Tailwind CSS** that generates intricate, mathematically harmonic 3D parametric snowflakes in real time.
 
